@@ -13,7 +13,7 @@
 1. **Spostati nella directory**
    - Spostati nella cartella contenente i tuoi file utilizzando il comando:
      ```bash
-     cd /percorso/della/cartella
+     cd C:\Users\AI_project
      ```
 
 2. **Posizionamento dei file**
