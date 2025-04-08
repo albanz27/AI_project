@@ -29,6 +29,3 @@
 
      minizinc --solver Gecode NegoziMagazzini.mzn istanza_2.dzn
      ```
-
-## Ulteriori informazioni
-Per ulteriori dettagli, consulta il file di documentazione o il codice sorgente nei commenti all'interno del modello MiniZinc.
