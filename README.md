@@ -27,7 +27,7 @@
      ```bash
      minizinc --solver Gecode NegoziMagazzini.mzn istanza_1.dzn
 
-     minizinc --solver Gecode NegoziMagazzini.mzn istanza_1.dzn
+     minizinc --solver Gecode NegoziMagazzini.mzn istanza_2.dzn
      ```
 
 ## Ulteriori informazioni
