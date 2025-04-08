@@ -26,6 +26,8 @@
    - Una volta seguiti i comandi precedenti, puoi eseguire il programma dal terminale o dalla linea di comando come segue:
      ```bash
      minizinc --solver Gecode NegoziMagazzini.mzn istanza_1.dzn
+
+     minizinc --solver Gecode NegoziMagazzini.mzn istanza_1.dzn
      ```
 
 ## Ulteriori informazioni
